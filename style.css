@@ -30,3 +30,6 @@ li {
 .blue {
   color: blue;
 }
+#output {
+  text-align: center;
+}
