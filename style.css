@@ -9,5 +9,24 @@ h1 {
 img {
   height: 150px;
   border-radius: 10px,
-  box-shadow: 0 4xp 8xp rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+ul {
+  list-style: circle;
+  text-align: left;
+}
+li {
+  font-weight: bold;
+}
+.red {
+  color: red;
+}
+.orange {
+  color: orange;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
 }
